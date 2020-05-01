@@ -1,0 +1,53 @@
+body{
+  font-family: 'Raleway', sans-serif; ;
+}
+
+#img1{
+  height: 295px;
+}
+
+.cont-left-1{
+  width: 50%;
+  margin-left: 10%;
+  margin-top: 4%;
+}
+
+.cont-right-1{
+  width: 40%;
+  position: absolute;
+  top:10%;
+  left:58%;
+}
+
+.cont-left-2{
+  width: 20%;
+  float: left;
+  margin-top: 10%;
+  margin-left: 13%;
+}
+.cont-right-2{
+  width: 20%;
+  float: left;
+  height: 10%;
+  margin-left: 23%;
+  margin-top:5%;
+}
+.btn-sizes{
+  border-radius: 10px;
+  color: none;
+
+}
+.btn-sizes:hover{
+  background-color: lime ;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.btn-pay{
+  border-radius:10px ;
+  background-color: mediumslateblue;
+}
+.btn-pay:hover{
+  cursor: pointer;
+  font-size: large;
+}
